@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syhndvr" alt="syhndvr" /></a> </p>
 
-- 🔭 I’m currently working on **autonomous robot vacuum cleaner**
+- 🔭 I’m currently working on **my own robotic project**
 
 - 🌱 I’m currently learning **Stm32 Microcontrollers,Reinforcement learning,SLAM**
 
